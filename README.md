@@ -6,7 +6,7 @@
 # main_sigma_b_time_marching.m runs the code to calculate the growth rate, and scale of DRVs on a finite domain for a variety of r values. plot_Dispersion_DRV.m solves the analytical equations for the dispersion relation on an infinite domain and compares to the finite domain solutions. plot_DRV_comparison.m compares the vertical velocity profile for finite and infinite domain calculations.
 
 # Tilted Model Without Meridional Gradients Folder:
-# main_periodic_wave_vs_DRV_qy_vs_r.m & main_periodic_wave_vs_DRV_q1y_vs_q2y_fixed_r.m run the code to calculate the growth rate and scale of unstable modes in the tilted model with meridional pv gradients. plot_periodic_wave_or_DRV_phase_diagram.m is used generate the phase diagram figure classifying whether the most unstable mode is a DRV vs. periodic wave.
+# main_qy_vs_r.m & main_q1y_vs_q2y_fixed_r.m run the code to calculate the growth rate and scale of unstable modes in the tilted model with meridional pv gradients. plot_periodic_wave_or_DRV_phase_diagram.m is used generate the phase diagram figure classifying whether the most unstable mode is a DRV vs. periodic wave.
 
 
 
