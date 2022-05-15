@@ -1,0 +1,4 @@
+% find the max growth rate for EFT at r=0.1
+
+r = 0.1;
+
